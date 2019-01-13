@@ -12,7 +12,6 @@ Procedure
         3 4 5
         6 7 8
 
-        The input file can be downloaded from here: OLA1-input.txt (same as the goal state above)
 Your random board generator should read the input configuration from standard input, and two command-line arguments (integer: random number generator seed, integer: number of random moves to make), and should print the final configuration to standard output in the same format as the input file format (see above)
 
     Create a C++ program which performs A* search for the 8-puzzle problem (a-star.cpp)
